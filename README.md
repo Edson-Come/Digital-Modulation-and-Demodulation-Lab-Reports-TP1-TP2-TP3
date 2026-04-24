@@ -25,6 +25,7 @@ Developed for the Digital Communications course — University of Aveiro (DETI),
 This repository brings together the reports from three connected lab sessions on digital communications. Each builds on the previous: starting from the fundamentals of baseband coding and line codes, through single-carrier digital modulation schemes, and finishing with a full QPSK transmitter/receiver chain including carrier recovery, symbol synchronisation, and SDR-based reception.
 
 ---
+![Network Topology](./labpic2.jpeg)
 
 ## TP1 — Baseband Digital Transmission
 
