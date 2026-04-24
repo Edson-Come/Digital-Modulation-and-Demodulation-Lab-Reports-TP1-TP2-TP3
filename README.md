@@ -4,6 +4,8 @@ Three practical laboratory reports covering digital baseband transmission, singl
 
 Developed for the Digital Communications course — University of Aveiro (DETI), 2024/25.
 
+![Network Topology](./labpic.jpeg)
+
 ---
 
 ## Table of Contents
